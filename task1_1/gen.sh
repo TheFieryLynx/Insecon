@@ -2,9 +2,9 @@
 
 DEBUG=0
 
-GROUP=628
-NAME=biryukovam
-EMAIL=biryukov.andrej2000@ispras.ru
+GROUP=111
+NAME=ivanovii
+EMAIL=ivanovii@gmail.com
 YEAR=365
 YEAR3=1095
 DAYS=90

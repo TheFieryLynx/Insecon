@@ -2,4 +2,4 @@
 basicConstraints=CA:FALSE
 keyUsage=critical,digitalSignature
 extendedKeyUsage=critical,serverAuth,clientAuth
-subjectAltName=DNS:basic.biryukovam.ru,DNS:basic.biryukovam.com
+subjectAltName=DNS:basic.ivanovii.ru,DNS:basic.ivanovii.com
