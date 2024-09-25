@@ -1,0 +1,6 @@
+[v3_ca]
+basicConstraints=CA:FALSE
+keyUsage=critical,digitalSignature
+extendedKeyUsage=critical,serverAuth,clientAuth
+subjectAltName=DNS:ocsp.revoked.ivanovii.ru
+authorityInfoAccess=OCSP;URI:http://ocsp.ivanovii.ru:2560

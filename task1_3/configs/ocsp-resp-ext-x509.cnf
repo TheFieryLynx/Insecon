@@ -1,0 +1,4 @@
+[v3_ca]
+basicConstraints=CA:FALSE
+keyUsage=critical,digitalSignature
+extendedKeyUsage=OCSPSigning
