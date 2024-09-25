@@ -1,0 +1,6 @@
+[v3_ca]
+basicConstraints=CA:FALSE
+keyUsage=critical,digitalSignature
+extendedKeyUsage=critical,serverAuth,clientAuth
+subjectAltName=DNS:crl.valid.ivanovii.ru
+crlDistributionPoints=URI:http://crl.ivanovii.ru
